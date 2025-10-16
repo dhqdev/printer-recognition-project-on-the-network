@@ -1,4 +1,7 @@
 Instalador de Impressoras de Rede via Script (VBS)
+
+<img width="296" height="144" alt="image" src="https://github.com/user-attachments/assets/4a487d32-c7c3-45df-8881-2877f2d676bf" />
+
 Este repositório contém um script VBScript (InstalaImpressoras.vbs) projetado para automatizar a instalação de impressoras de rede em computadores com sistema operacional Windows.
 
 O script é ideal para administradores de sistemas ou equipes de TI que precisam padronizar a instalação de impressoras em múltiplos computadores de forma rápida e com feedback claro para o usuário.
